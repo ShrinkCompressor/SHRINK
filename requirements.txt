@@ -1,0 +1,15 @@
+numpy
+pandas
+os
+scipy
+timeit
+struct
+math
+bitstring
+gzip
+shutil
+pickle
+matplotlib
+seaborn
+bz2
+gzip
